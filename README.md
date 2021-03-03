@@ -1,4 +1,4 @@
-# table-fan.css
+# table-fan
 
 <!doctype html>
 <html>
