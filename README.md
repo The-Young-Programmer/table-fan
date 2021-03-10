@@ -1,6 +1,4 @@
-# table-fan
 
-<!doctype html>
 <html>
 <title> 
    Project 1
